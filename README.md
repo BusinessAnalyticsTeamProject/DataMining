@@ -14,15 +14,7 @@ They tend to lose their motivation because of  their isolated situation.
 
 Our Sgether team was launched to solve this situation using **a non-face-to-face study platform** and **AI supervisor technology.**
 
- 
-## 😎 Expectation 
-Children can feel connected to each other and motivated even when they use our Sgether platform.  
-
-In addition, AI's learning supervision allows you to objectively grasp your own learning status.
-
 ## 📄 Abstract
-
-
 There are students in developing countries who, for various reasons, have difficulty attending classes in person.
 <br>
 To ensure the quality of education and equal learning opportunities for these students, a remote education system platform is necessary. 
@@ -30,8 +22,14 @@ To ensure the quality of education and equal learning opportunities for these st
 However, despite efforts to provide remote education, the quality of education may suffer due to the lack of on-site monitoring and the inability to gauge students' level of focus.
 <br>
 So, to address this issue, we have developed AI CamStudy, which combines AI proctoring and video conference study sessions.
+ 
+## 😎 Expectation 
+Children can feel connected to each other and motivated even when they use our Sgether platform.  
+In addition, AI's learning supervision allows you to objectively grasp your own learning status.
+
+
   
-### 📄 UN SDG
+## 📚 Data Collection
 ![enter image description here](https://user-images.githubusercontent.com/111236793/229104885-08f072f1-83ad-4603-9bd4-bed9f79638bf.png)
 According to UN, there are large disparities between the income groups in primary school completion rates Also, the pandemic has led to school closures affecting 90% of students.
 
@@ -44,13 +42,13 @@ Due to the difficulty of conducting face-to-face classes, remote classes need to
 #### resolve
 We have addressed this issue by introducing AI proctoring.
 
-## 🛣 Architecture
+## 🛣 EDA
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/111236793/229113399-f41dcb49-399a-4b51-8140-ff66b628ce75.png"/>
 </p>
 
 
-## 📚 Project overview
+##  Project overview
 <p  align="center">
 <img width = "250px" height = "500px" src="https://user-images.githubusercontent.com/76484900/227690312-6296bc19-ab94-418b-ac83-76dc9fdfb836.png"/>
 <img width = "250px" height = "500px" src="https://user-images.githubusercontent.com/76484900/227690317-f8f6294e-3d75-4ba4-8a95-1464a2609397.png"/>
