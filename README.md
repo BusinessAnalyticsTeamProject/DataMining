@@ -2,8 +2,9 @@
 
   
 <p  align="center">
-<img  width="1000px"  height = "175px"  src="https://user-images.githubusercontent.com/111236793/212054463-d4fd811f-6622-4b2b-8393-8bdbb8897077.png"/>
+<img  width="1000px"  height = "175px"  src="![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/28eea43e-5f03-41df-b5cc-524d7f1f947a)"/>
 </p>
+![Uploading image.png…]()
 
  <p  align="center"><b>Business Analytics Team Project in ITM Major</b></p>
 
@@ -103,6 +104,6 @@ We are also deploying the service using AWS EC2 cloud service. Therefore, scalin
 ## 👪 Team Information
 
 - Jeongmin Oh(@gmail.com), Github Id: lopahn2 
-- KangMin Kim (rkdals0203@gmail.com), Github Id: rkdals0203 
-- Aleksandra  (@gmail.com), Github Id: alekann009 
+- Kangmin Kim (rkdals0203@gmail.com), Github Id: rkdals0203 
+- Aleksandra Kaniewska (@gmail.com), Github Id: alekann009 
 - Eonseon Park (eonpark@gmail.com), Github Id: eonpark 
