@@ -1,11 +1,11 @@
-# DataMining
+# 42 Academy Enterance Prediction Project
 
   
 <p  align="center">
 <img  width="1000px"  height = "175px"  src="https://user-images.githubusercontent.com/111236793/212054463-d4fd811f-6622-4b2b-8393-8bdbb8897077.png"/>
 </p>
 
- <p  align="center"><b>AI Supervisor Remote Study Platform</b></p>
+ <p  align="center"><b>Business Analytics Team Project in ITM Major</b></p>
 
 Not all children can go to the class room in person.  
 They tend to lose their motivation because of  their isolated situation.  
@@ -101,9 +101,8 @@ We are also deploying the service using AWS EC2 cloud service. Therefore, scalin
 
 
 ## 👪 Team Information
-![enter image description here](https://user-images.githubusercontent.com/111236793/229105497-637d9283-f492-466e-ba76-4351eda3db79.png)
 
-- YoungHwan Phan(lopahn2@gmail.com), Github Id: lopahn2 (Server, Database)
-- KangMin Kim (rkdals0203@gmail.com), Github Id: rkdals0203 (APP Frontend)
-- HongMu Chae (hongmuchae@gmail.com), Github Id: Hong-Mu (APP Frontend)
-- JaeHoon Bang (dev.appendCBangJ@gmail.com), Github Id: devappendCBangJ (Deep Learning)
+- Jeongmin Oh(@gmail.com), Github Id: lopahn2 
+- KangMin Kim (rkdals0203@gmail.com), Github Id: rkdals0203 
+- Aleksandra  (@gmail.com), Github Id: alekann009 
+- Eonseon Park (eonpark@gmail.com), Github Id: eonpark 
