@@ -2,7 +2,7 @@
 
   
 <p  align="center">
-<img  width="1000px"  height = "175px"  src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/28eea43e-5f03-41df-b5cc-524d7f1f947a"/>
+<img  width="900px"  height = "300px"  src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/28eea43e-5f03-41df-b5cc-524d7f1f947a"/>
 </p>
 ![Uploading image.png…]()
 
