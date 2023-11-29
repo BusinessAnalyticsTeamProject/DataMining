@@ -4,15 +4,14 @@
 <p  align="center">
 <img  width="900px"  height = "300px"  src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/28eea43e-5f03-41df-b5cc-524d7f1f947a"/>
 </p>
-![Uploading image.png…]()
 
  <p  align="center"><b>Business Analytics Team Project in ITM Major</b></p>
 
-Not all children can go to the class room in person.  
-They tend to lose their motivation because of  their isolated situation.  
+There are 50 number of 42 campus and this education system is originated from 42 Ecole, which is the first campus of 42 school. 42 As schools become increasingly global, cracks will inevitably appear in their operating policies and educational standards.​
+It is unclear whether the students at 42 School are being evaluated according to the standards of 42 Ecole, which has originality.​
 <br>
 
-Our Sgether team was launched to solve this situation using **a non-face-to-face study platform** and **AI supervisor technology.**
+Our team was launched to solve this situation using **Business Analytics** techniques.
 
 ## 📄 Abstract
 There are students in developing countries who, for various reasons, have difficulty attending classes in person.
