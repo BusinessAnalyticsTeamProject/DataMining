@@ -5,8 +5,8 @@
  <p  align="center"><b>Business Analytics Team Project in ITM Major</b></p>
 
 ## 📄 Background
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/d09c150a-2b0e-479c-8486-b5ee902e987c)
 ### 1. Increasing competition rate​ & Unclear passing criteria
+![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/d09c150a-2b0e-479c-8486-b5ee902e987c)
 42 School is rapidly gaining global recognition as a prestigious educational institution, particularly in Korea, where the competition rate is an astonishing 44 to 1. 
 However, a significant challenge arises during the month-long testing period, as the nature of crucial activities remains shrouded in secrecy, posing a concern for prospective students and their preparation strategies.​
 <br>
@@ -19,7 +19,6 @@ Our team was launched to solve this situation using **Business Analytics** techn
 
 ## 😎 Purpose 
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/9a84dce6-be7a-47cc-8a37-71e7ed831954)
-
 ### 1. Predict the probability that an applicant will be Passed/Failed
 ### 2. Identify important factors that affect the final selection results of trainees
 ### 3. Compare the selection criteria of 42 Seoul and Ecole 42 to identify the differences in selection priority factors
@@ -28,15 +27,10 @@ Our team was launched to solve this situation using **Business Analytics** techn
 ## 📚 Data Collection
 <img src = "https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/746067b3-c5ca-4ded-afdb-921510f0a43b"/>
 According to UN, there are large disparities between the income groups in primary school completion rates Also, the pandemic has led to school closures affecting 90% of students.
-
-### Quality Education & Reduce Inequality
-
+### 1.
 #### target
 Children who, due to geographical or environmental limitations, cannot receive a certain level of education.
-#### problem
-Due to the difficulty of conducting face-to-face classes, remote classes need to be conducted. However, there are challenges in monitoring students' level of focus
-#### resolve
-We have addressed this issue by introducing AI proctoring.
+
 
 ## 🛣 EDA
 <p  align="center">
@@ -44,7 +38,7 @@ We have addressed this issue by introducing AI proctoring.
 </p>
 
 
-##  Project overview
+## 💻 Main Data Mining Process
 <p  align="center">
 <img width = "250px" height = "500px" src="https://user-images.githubusercontent.com/76484900/227690312-6296bc19-ab94-418b-ac83-76dc9fdfb836.png"/>
 <img width = "250px" height = "500px" src="https://user-images.githubusercontent.com/76484900/227690317-f8f6294e-3d75-4ba4-8a95-1464a2609397.png"/>
@@ -52,7 +46,7 @@ We have addressed this issue by introducing AI proctoring.
 </p>
 
 
-##  👍 Scalability of the project
+##  🚏 Conclusion
 Beyond self-study proctoring, we will collaborate with other large-scale education platforms to provide learning content. As a result, more users will be attracted, and more efficient and effective learning will be achieved through our project's technology.
 
 We are also deploying the service using AWS EC2 cloud service. Therefore, scaling up based on the size of users can be easily performed and expansion can be prepared by dynamically increasing servers according to demand.
