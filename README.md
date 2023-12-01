@@ -1,4 +1,4 @@
-# 42 Academy Enterance Prediction Project
+![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/639c0cfb-d0ac-4bea-bf5a-a3fb83507283)# 42 Academy Enterance Prediction Project
 
   
 <p  align="center">
@@ -10,21 +10,23 @@
 ## 📄 Background
 ### 1. Increasing competition rate​ & Unclear passing criteria
 42 School is rapidly gaining global recognition as a prestigious educational institution, particularly in Korea, where the competition rate is an astonishing 44 to 1. 
-<br>
 However, a significant challenge arises during the month-long testing period, as the nature of crucial activities remains shrouded in secrecy, posing a concern for prospective students and their preparation strategies.​
-
+<br>
 ### 2. Increasing competition rate​ & Unclear passing criteria
-There are 50 number of 42 campus and this education system is originated from 42 Ecole, which is the first campus of 42 school. 
-<br>
+There are 50 number of 42 campus and this education system is originated from 42 Ecole, which is the first campus of 42 school.
 42 As schools become increasingly global, cracks will inevitably appear in their operating policies and educational standards.​
-<br>
 It is unclear whether the students at 42 School are being evaluated according to the standards of 42 Ecole, which has originality.​
-<br>
 Our team was launched to solve this situation using **Business Analytics** techniques.
 
-## 😎 Expectation 
-Children can feel connected to each other and motivated even when they use our Sgether platform.  
-In addition, AI's learning supervision allows you to objectively grasp your own learning status.
+## 😎 Purpose 
+### 1. Predict the probability that an applicant will be Passed/Failed
+### 2. Identify important factors that affect the final selection results of trainees
+### 3. Compare the selection criteria of 42 Seoul and Ecole 42 to identify the differences in selection priority factors
+
+
+
+
+
 
 
   
