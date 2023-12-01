@@ -7,11 +7,13 @@
 ## 📄 Background
 ### 1. Increasing competition rate​ & Unclear passing criteria
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/d09c150a-2b0e-479c-8486-b5ee902e987c)
+<br>
 42 School is rapidly gaining global recognition as a prestigious educational institution, particularly in Korea, where the competition rate is an astonishing 44 to 1. 
 However, a significant challenge arises during the month-long testing period, as the nature of crucial activities remains shrouded in secrecy, posing a concern for prospective students and their preparation strategies.​
 <br>
 ### 2. Globalized Campus of 42 school
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/0b359730-dcf7-4c31-9c64-af0634b30af0)
+<br>
 There are 50 number of 42 campus and this education system is originated from 42 Ecole, which is the first campus of 42 school.
 42 As schools become increasingly global, cracks will inevitably appear in their operating policies and educational standards.​
 It is unclear whether the students at 42 School are being evaluated according to the standards of 42 Ecole, which has originality.​
@@ -21,7 +23,7 @@ Our team was launched to solve this situation using **Business Analytics** techn
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/9a84dce6-be7a-47cc-8a37-71e7ed831954)
 ### 1. Predict the probability that an applicant will be Passed/Failed
 ### 2. Identify important factors that affect the final selection results of trainees
-### 3. Compare the selection criteria of 42 Seoul and Ecole 42 to identify the differences in selection priority factors
+### 3. Compare the selection criteria of 42 Seoul and Ecole 42 to identify the differences in selection factors
 
   
 ## 📚 Data Collection
