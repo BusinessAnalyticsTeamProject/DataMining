@@ -1,6 +1,3 @@
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/639c0cfb-d0ac-4bea-bf5a-a3fb83507283)# 42 Academy Enterance Prediction Project
-
-  
 <p  align="center">
 <img  width="900px"  height = "300px"  src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/28eea43e-5f03-41df-b5cc-524d7f1f947a"/>
 </p>
@@ -23,15 +20,9 @@ Our team was launched to solve this situation using **Business Analytics** techn
 ### 2. Identify important factors that affect the final selection results of trainees
 ### 3. Compare the selection criteria of 42 Seoul and Ecole 42 to identify the differences in selection priority factors
 
-
-
-
-
-
-
   
 ## 📚 Data Collection
-![enter image description here](https://user-images.githubusercontent.com/111236793/229104885-08f072f1-83ad-4603-9bd4-bed9f79638bf.png)
+<img src = "https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/746067b3-c5ca-4ded-afdb-921510f0a43b"/>
 According to UN, there are large disparities between the income groups in primary school completion rates Also, the pandemic has led to school closures affecting 90% of students.
 
 ### Quality Education & Reduce Inequality
