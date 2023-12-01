@@ -7,21 +7,21 @@
 
  <p  align="center"><b>Business Analytics Team Project in ITM Major</b></p>
 
-There are 50 number of 42 campus and this education system is originated from 42 Ecole, which is the first campus of 42 school. 42 As schools become increasingly global, cracks will inevitably appear in their operating policies and educational standards.​
+## 📄 Background
+### 1. Increasing competition rate​ & Unclear passing criteria
+42 School is rapidly gaining global recognition as a prestigious educational institution, particularly in Korea, where the competition rate is an astonishing 44 to 1. 
+<br>
+However, a significant challenge arises during the month-long testing period, as the nature of crucial activities remains shrouded in secrecy, posing a concern for prospective students and their preparation strategies.​
+
+### 2. Increasing competition rate​ & Unclear passing criteria
+There are 50 number of 42 campus and this education system is originated from 42 Ecole, which is the first campus of 42 school. 
+<br>
+42 As schools become increasingly global, cracks will inevitably appear in their operating policies and educational standards.​
+<br>
 It is unclear whether the students at 42 School are being evaluated according to the standards of 42 Ecole, which has originality.​
 <br>
-
 Our team was launched to solve this situation using **Business Analytics** techniques.
 
-## 📄 Abstract
-There are students in developing countries who, for various reasons, have difficulty attending classes in person.
-<br>
-To ensure the quality of education and equal learning opportunities for these students, a remote education system platform is necessary. 
-<br>  
-However, despite efforts to provide remote education, the quality of education may suffer due to the lack of on-site monitoring and the inability to gauge students' level of focus.
-<br>
-So, to address this issue, we have developed AI CamStudy, which combines AI proctoring and video conference study sessions.
- 
 ## 😎 Expectation 
 Children can feel connected to each other and motivated even when they use our Sgether platform.  
 In addition, AI's learning supervision allows you to objectively grasp your own learning status.
