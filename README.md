@@ -16,6 +16,8 @@ It is unclear whether the students at 42 School are being evaluated according to
 Our team was launched to solve this situation using **Business Analytics** techniques.
 
 ## 😎 Purpose 
+![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/9a84dce6-be7a-47cc-8a37-71e7ed831954)
+
 ### 1. Predict the probability that an applicant will be Passed/Failed
 ### 2. Identify important factors that affect the final selection results of trainees
 ### 3. Compare the selection criteria of 42 Seoul and Ecole 42 to identify the differences in selection priority factors
