@@ -55,7 +55,7 @@ This is the sample data structure of as_corrected data. By counting item named w
 In 42 School, each user has their own personal page. From there, we could retrieve statistical information about users. So, data is collected through crawling by accessing each user's page. <br>
 Level​: Overall progress that can be made through assignments, and midterm exams <br>
 Group Assignments: Optional group assignments <br>
-Penalty​: How many times you cheated; each time a user get caught, 42 points will be deducted from assignment score <br>
+Penalty​: How many times cheated; each time a user get caught, 42 points will be deducted from assignment score <br>
 Highest C-picsine​: In assignments using the C language, the highest level of assignment completed (0~13) <br>
 Final Exam Score: as it is.<br>
 
