@@ -31,11 +31,30 @@ Our team was launched to solve this situation using **Business Analytics** techn
 
   
 ## 📚 Data Collection
+### 1. Overall Collecting Process
 <img src = "https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/746067b3-c5ca-4ded-afdb-921510f0a43b"/>
-According to UN, there are large disparities between the income groups in primary school completion rates Also, the pandemic has led to school closures affecting 90% of students.
-### 1.
-#### target
-Children who, due to geographical or environmental limitations, cannot receive a certain level of education.
+
+### 2. User Raw Data
+<img width="497" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/f9f06468-4366-4639-b437-1fae2b5088f8">
+By calling /v2/campus/:/campus_id/users, we could separately collect raw data for all users of Seoul 42 Campus and Ecole 42 Campus, and the campus_ids for each are 29 and 1.
+
+<img width="502" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/edc8c355-4c62-44be-8c33-f641b188d40e">
+This is what user raw data looks like.
+
+### 3. Feedback and Evaluation Data
+<img width="524" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/d5e704a7-a048-4adf-b334-618766aa9c7a">
+By calling /v2/users/:user_id/scale_teams/as_corrector and /v2/users/:user_id/scale_teams/as_corrected, we were able to obtain data in json format with items for events in which a user participated as a correcter and correction recipient.
+<img width="1231" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/43896369-4652-49b2-ac09-6cbf052d7be5">
+This is the sample data structure of as_corrected data. By counting item named with corrcected, we've figured out how many evaluations they gave (corrector) and feedback they received(corrected).
+
+
+<img width="220" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/30fce04c-3b1e-456a-934e-e970e4bd2fd2">
+
+
+
+
+### 4. Level​ Group Assignments​, Penalty​, Highest La-picsine​, Final Exam Score
+
 
 
 ## 🛣 EDA
