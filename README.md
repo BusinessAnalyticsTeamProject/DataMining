@@ -31,18 +31,19 @@ Our team was launched to solve this situation using **Business Analytics** techn
 
   
 ## 📚 Data Collection
-### 1. Overall Collecting Process
+### Overall Collecting Process
 <img src = "https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/746067b3-c5ca-4ded-afdb-921510f0a43b"/>
 
-### 2. User Raw Data: API
+### 1. User Raw Data: API
 <img width="497" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/f9f06468-4366-4639-b437-1fae2b5088f8">
 <br>
 By calling /v2/campus/:/campus_id/users, we could separately collect raw data for all users of Seoul 42 Campus and Ecole 42 Campus, and the campus_ids for each are 29 and 1.
 
 <img width="502" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/edc8c355-4c62-44be-8c33-f641b188d40e">
+<br>
 This is what user raw data looks like.
 
-### 3. Feedback and Evaluation Data: API with Python Code for Processing
+### 2. Feedback and Evaluation Data: API with Python Code for Processing
 <img width="524" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/d5e704a7-a048-4adf-b334-618766aa9c7a">
 <br>
 By calling /v2/users/:user_id/scale_teams/as_corrector and /v2/users/:user_id/scale_teams/as_corrected, we were able to obtain data in json format with items for events in which a user participated as a correcter and correction recipient.
@@ -51,8 +52,15 @@ By calling /v2/users/:user_id/scale_teams/as_corrector and /v2/users/:user_id/sc
 This is the sample data structure of as_corrected data. By counting item named with corrcected, we've figured out how many evaluations they gave (corrector) and feedback they received(corrected).
 <br>
 
+### 3. Level​, Group Assignments​, Penalty​, Highest La-picsine​, Final Exam Score: Crawling with Python Code
+<img width="735" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/45c6d1da-eaeb-4f2e-b178-b395ca3d9b94">
+In 42 School, each user has their own personal page. From there, we could retrieve statistical information about users. So, data is collected through crawling by accessing each user's page.
+Level​: Overall progress that can be made through assignments, and midterm exams
+Group Assignments: Optional group assignments
+Penalty​
+Highest La-picsine​
+Final Exam Score
 
-### 4. Level​ Group Assignments​, Penalty​, Highest La-picsine​, Final Exam Score: Crawling with Python Code
 
 
 
