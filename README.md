@@ -6,6 +6,7 @@
 
 ## 📄 Background
 ### 1. Increasing competition rate​ & Unclear passing criteria
+ 
 <p  align="center">
 <img src = "https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/d09c150a-2b0e-479c-8486-b5ee902e987c">
 </p>
@@ -13,6 +14,7 @@
 42 School is rapidly gaining global recognition as a prestigious educational institution, particularly in Korea, where the competition rate is an astonishing 44 to 1. 
 However, a significant challenge arises during the month-long testing period, as the nature of crucial activities remains shrouded in secrecy, posing a concern for prospective students and their preparation strategies.​
 <br>
+
 ### 2. Globalized Campus of 42 school
 <p  align="center">
 <img src = "https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/0b359730-dcf7-4c31-9c64-af0634b30af0">
