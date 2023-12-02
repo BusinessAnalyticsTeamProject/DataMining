@@ -39,7 +39,7 @@ Children who, due to geographical or environmental limitations, cannot receive a
 <p  align="center">
 <img src = "https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/234bb13b-a287-4914-915c-21b80849eda0"/>
 </p>
-
+This data set is a data set after removing all data points with a Final Exam score of less than 42 points. It can be seen that even if the Final Exam score is 42 points or more, there are many people who fail the final selection, and the ratio is almost equal to the number of people in the PASS.
 
 
 ## 💻 Main Data Mining Process
