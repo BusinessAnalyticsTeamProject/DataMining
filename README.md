@@ -35,12 +35,10 @@ Children who, due to geographical or environmental limitations, cannot receive a
 
 
 ## 🛣 EDA
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/111236793/229113399-f41dcb49-399a-4b51-8140-ff66b628ce75.png"/>
-</p>
-
 ### 1.Pie Chart for PASS/FAIL ratio
+<p  align="center">
 ![passfail](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/234bb13b-a287-4914-915c-21b80849eda0)
+</p>
 
 
 
