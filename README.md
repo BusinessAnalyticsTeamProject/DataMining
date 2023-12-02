@@ -35,12 +35,10 @@ Our team was launched to solve this situation using Business Analytics technique
 <img src = "https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/746067b3-c5ca-4ded-afdb-921510f0a43b"/>
 
 ### 1. User Raw Data: API
-<img width="497" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/f9f06468-4366-4639-b437-1fae2b5088f8">
-<br>
+<img width="497" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/f9f06468-4366-4639-b437-1fae2b5088f8"><br>
 By calling /v2/campus/:/campus_id/users, we could separately collect raw data for all users of Seoul 42 Campus and Ecole 42 Campus, and the campus_ids for each are 29 and 1.
 
-<img width="502" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/edc8c355-4c62-44be-8c33-f641b188d40e">
-<br>
+<img width="502" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/edc8c355-4c62-44be-8c33-f641b188d40e"><br>
 This is what user raw data looks like.
 
 ### 2. Feedback and Evaluation Data: API with Python Code for Processing
