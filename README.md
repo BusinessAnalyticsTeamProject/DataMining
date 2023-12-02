@@ -54,12 +54,12 @@ This is the sample data structure of as_corrected data. By counting item named w
 
 ### 3. Level​, Group Assignments​, Penalty​, Highest La-picsine​, Final Exam Score: Crawling with Python Code
 <img width="735" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/45c6d1da-eaeb-4f2e-b178-b395ca3d9b94">
-In 42 School, each user has their own personal page. From there, we could retrieve statistical information about users. So, data is collected through crawling by accessing each user's page.
-Level​: Overall progress that can be made through assignments, and midterm exams
-Group Assignments: Optional group assignments
-Penalty​
-Highest La-picsine​
-Final Exam Score
+In 42 School, each user has their own personal page. From there, we could retrieve statistical information about users. So, data is collected through crawling by accessing each user's page. <br>
+Level​: Overall progress that can be made through assignments, and midterm exams <br>
+Group Assignments: Optional group assignments <br>
+Penalty​: How many times you cheated; each time a user get caught, 42 points will be deducted from assignment score <br>
+Highest C-picsine​: In assignments using the C language, the highest level of assignment completed (0~13) <br>
+Final Exam Score: as it is.<br>
 
 
 
