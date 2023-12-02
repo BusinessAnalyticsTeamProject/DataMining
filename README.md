@@ -37,7 +37,7 @@ Children who, due to geographical or environmental limitations, cannot receive a
 ## 🛣 EDA
 ### 1.Pie Chart for PASS/FAIL ratio
 <p  align="center">
-![passfail](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/234bb13b-a287-4914-915c-21b80849eda0)
+<img src = "https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/234bb13b-a287-4914-915c-21b80849eda0"/>
 </p>
 
 
