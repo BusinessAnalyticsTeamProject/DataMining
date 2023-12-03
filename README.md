@@ -63,62 +63,62 @@ Final Exam Score: as it is.<br>
 ## 🛣 EDA
 ### 1.Pair Plot
 <p align="center">
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/94adcace-0c62-4a74-ae59-f728e020da12)
+<img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/94adcace-0c62-4a74-ae59-f728e020da12">
 </p>
 <br>
 This data set is a data set after removing all data points with a Final Exam score of less than 42 points. It can be seen that even if the Final Exam score is 42 points or more, there are many people who fail the final selection, and the ratio is almost equal to the number of people in the PASS.
 
 ### 2.Statistics
 <p align="center">
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/b095b45c-75ae-4ecb-a13e-216589cb381a)
+<img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/b095b45c-75ae-4ecb-a13e-216589cb381a">
 </p>
 
 ### 3.Box Plot
 <p align="center">
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/e0485e5c-93c8-498a-a3f0-4ff52a19751c)
+<img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/e0485e5c-93c8-498a-a3f0-4ff52a19751c">
 </p>
 <p align="center">
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/fa608dac-a68f-4c63-b37e-4690e2aa4d57)
+<img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/fa608dac-a68f-4c63-b37e-4690e2aa4d57">
 </p>
 <p align="center">
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/b813653b-1231-45e7-9c58-525df685960b)
+<img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/b813653b-1231-45e7-9c58-525df685960b">
 </p>
 
 ### 4.Correlation Matrix
 <p align="center">
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/1755d261-1bcd-47a3-8864-f592b6b5e03a)
+<img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/1755d261-1bcd-47a3-8864-f592b6b5e03a">
 </p>
 
 ### 5.Pie Chart for PASS/FAIL Distribution
 <p align="center">
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/1be48b99-bda0-42ba-98f3-328b0a105b8e)
+<img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/1be48b99-bda0-42ba-98f3-328b0a105b8e">
 </p>
 
 ### 6.Bar Chart for distribution of other variables
 <p align="center">
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/173c1c81-a74a-4fed-9649-a78cbc64290e)
+<img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/173c1c81-a74a-4fed-9649-a78cbc64290e">
 </p>
 <p align="center">
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/aab669c8-a0ee-4b2d-a589-f50fbf0dd730)
+<img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/aab669c8-a0ee-4b2d-a589-f50fbf0dd730">
 </p>
 <p align="center">
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/4abe355c-1478-4598-ad1b-7b3bf0a8ef55)
+<img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/4abe355c-1478-4598-ad1b-7b3bf0a8ef55">
 </p>
 
 ### 7.Bubble Chart for Peer Reviews and Result of the Exam
 <p align="center">
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/eb716d32-bfbe-4176-b7a0-2e9e52178489)
+<img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/eb716d32-bfbe-4176-b7a0-2e9e52178489">
 </p>
 
 ### 8. C Piscine Levels and Scaled Passed Ratio
 <p align="center">
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/78c03afd-8729-4c09-b47e-fed896f89d52)
+<img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/78c03afd-8729-4c09-b47e-fed896f89d52">
 </p>
 
 ## 💻 Main Data Mining Process
 ### Pipelining
 <p align="center">
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/be1b7aaf-c802-40c6-a4ce-26a031e0024f)
+<img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/be1b7aaf-c802-40c6-a4ce-26a031e0024f">
 </p>
 
 
