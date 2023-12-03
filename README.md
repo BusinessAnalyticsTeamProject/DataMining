@@ -59,6 +59,11 @@ Penalty​: How many times cheated; each time a user get caught, 42 points will 
 Highest C-picsine​: In assignments using the C language, the highest level of assignment completed (0~13) <br>
 Final Exam Score: as it is.<br>
 
+### 4. Merge all of files from API and crawled file.
+<>
+Files created through API calls and crawling include CSV files and a plain text file recording assignments and exam scores. From the plain text file, I extracted the Highest C Piscine, Final Exam Score, and the Number of Group Assignments. I then summed these scores and divided them by a certain value to derive a level that closely resembles the actual level, and created a CSV file from this data.
+
+Subsequently, I performed an inner join on each CSV file using the 'id' and 'login' information. All dummy data was filtered out based on the level and generation.
 
 ## 🛣 EDA
 ### 1.Pair Plot
@@ -134,7 +139,7 @@ This data set is a data set after removing all data points with a Final Exam sco
 
 ## 👪 Team Information
 
-- Jeongmin Oh(@gmail.com), Github Id: lopahn2 
+- Jeongmin Oh(jeongmino1207@gmail.com), Github Id: jeongmino 
 - Kangmin Kim (rkdals0203@gmail.com), Github Id: rkdals0203 
 - Aleksandra Kaniewska (@gmail.com), Github Id: alekann009 
 - Eonseon Park (eonpark@gmail.com), Github Id: eonpark 
