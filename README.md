@@ -34,18 +34,21 @@ Our team was launched to solve this situation using Business Analytics technique
   
 ## 📚 Data Collection
 ### Overall Collecting Process
-<img src = "https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/746067b3-c5ca-4ded-afdb-921510f0a43b"/>
+<img src = "https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/746067b3-c5ca-4ded-afdb-921510f0a43b"/> <br>
+We completed the data collection process by following these five steps. We created raw data through API calling, merged the crawled data, and deleted unnecessary columns.
+
 
 ### 1. User Raw Data: API
 <img width="497" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/f9f06468-4366-4639-b437-1fae2b5088f8"><br>
 By calling /v2/campus/:/campus_id/users, we could separately collect raw data for all users of Seoul 42 Campus and Ecole 42 Campus, and the campus_ids for each are 29 and 1.
 
 <img width="502" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/edc8c355-4c62-44be-8c33-f641b188d40e"><br>
-This is what user raw data looks like.
+To get the raw data, we found the campus IDs of the Seoul and Ecole campuses and retrieved the data through API requests. This is what user raw data looks like.
 
 ### 2. Feedback and Evaluation Data: API with Python Code for Processing
 <img width="524" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/d5e704a7-a048-4adf-b334-618766aa9c7a"> <br>
 By calling /v2/users/:user_id/scale_teams/as_corrector and /v2/users/:user_id/scale_teams/as_corrected, we were able to obtain data in json format with items for events in which a user participated as a correcter and correction recipient.
+After calling /v2/users/:user_id/scale_teams/as_corrector and as corrected to add the feedback received by one user and the feedback given by that user to another user as independent variables, the number of items is calculated from each response json format. By counting, we were able to extract data.
 <img width="1231" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/43896369-4652-49b2-ac09-6cbf052d7be5"> <br>
 This is the sample data structure of as_corrected data. By counting item named with corrcected, we've figured out how many evaluations they gave (corrector) and feedback they received(corrected).
 <br>
@@ -60,10 +63,14 @@ Highest C-picsine​: In assignments using the C language, the highest level of 
 Final Exam Score: as it is.<br>
 
 ### 4. Merge all of files from API and crawled file.
-<>
+![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/0a41f4d3-2e87-40f8-b6cd-2a4c793c92af)
+![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/051d35b9-3830-4713-950d-a1f76ecc3260)
+![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/9e1e1d6e-9a56-4221-900c-825dcb24d83a)
+![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/1aac28a6-35d4-4c11-ab5e-f98f908ad9dc)
+<br>
 Files created through API calls and crawling include CSV files and a plain text file recording assignments and exam scores. From the plain text file, I extracted the Highest C Piscine, Final Exam Score, and the Number of Group Assignments. I then summed these scores and divided them by a certain value to derive a level that closely resembles the actual level, and created a CSV file from this data.
-
-Subsequently, I performed an inner join on each CSV file using the 'id' and 'login' information. All dummy data was filtered out based on the level and generation.
+Subsequently, we performed an inner join on each CSV file using the 'id' and 'login' information. All dummy data was filtered out based on the level and generation.
+This is how the final data  looks like. Since the participants whose score is under 42 will automatically be failed, we could know almost ¼ student could not be passed in final exam.
 
 ## 🛣 EDA
 ### 1.Pair Plot
