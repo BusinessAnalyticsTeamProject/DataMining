@@ -94,7 +94,7 @@ This data set is a data set after removing all data points with a Final Exam sco
 <img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoulboxplot%202.png">
 </p>
 <p align="center">
-<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoulboxplot3.png">
+<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoulboxplot%203.png">
 </p>
 
 #### 4.Correlation Matrix
