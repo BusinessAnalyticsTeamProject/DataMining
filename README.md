@@ -73,19 +73,74 @@ Subsequently, we performed an inner join on each CSV file using the 'id' and 'lo
 This is how the final data  looks like. Since the participants whose score is under 42 will automatically be failed, we could know almost ¼ student could not be passed in final exam.
 
 ## 🛣 EDA
-### 1.Pair Plot
+### 42 SEOUL school 
+#### 1.Pair Plot
+<p align="center">
+<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/pairplot.png">
+</p>
+<br>
+This data set is a data set after removing all data points with a Final Exam score of less than 42 points. It can be seen that even if the Final Exam score is 42 points or more, there are many people who fail the final selection, and the ratio is almost equal to the number of people in the PASS.
+
+#### 2.Statistics
+<p align="center">
+<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/statistics.png">
+</p>
+
+#### 3.Box Plot
+<p align="center">
+<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/boxplots%201.png">
+</p>
+<p align="center">
+<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoulboxplot%202.png">
+</p>
+<p align="center">
+<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoulboxplot3.png">
+</p>
+
+#### 4.Correlation Matrix
+<p align="center">
+<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/correlationmatrix.png">
+</p>
+
+#### 5.Pie Chart for PASS/FAIL Distribution
+<p align="center">
+<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoulpiechart.png">
+</p>
+
+#### 6.Bar Chart for distribution of other variables
+<p align="center">
+<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoulbarchat1.png">
+</p>
+<p align="center">
+<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoulbarchart2.png">
+</p>
+<p align="center">
+<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoulbarchart3.png">
+</p>
+
+#### 7.Bubble Chart for Peer Reviews and Result of the Exam
+<p align="center">
+<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoul%20bubble%20chart.png">
+</p>
+
+#### 8. C Piscine Levels and Scaled Passed Ratio
+<p align="center">
+<img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoul%20polar%20chart.png">
+</p>
+### 42 Ecole school 
+#### 1.Pair Plot
 <p align="center">
 <img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/94adcace-0c62-4a74-ae59-f728e020da12">
 </p>
 <br>
 This data set is a data set after removing all data points with a Final Exam score of less than 42 points. It can be seen that even if the Final Exam score is 42 points or more, there are many people who fail the final selection, and the ratio is almost equal to the number of people in the PASS.
 
-### 2.Statistics
+#### 2.Statistics
 <p align="center">
 <img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/b095b45c-75ae-4ecb-a13e-216589cb381a">
 </p>
 
-### 3.Box Plot
+#### 3.Box Plot
 <p align="center">
 <img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/e0485e5c-93c8-498a-a3f0-4ff52a19751c">
 </p>
@@ -96,17 +151,17 @@ This data set is a data set after removing all data points with a Final Exam sco
 <img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/b813653b-1231-45e7-9c58-525df685960b">
 </p>
 
-### 4.Correlation Matrix
+#### 4.Correlation Matrix
 <p align="center">
 <img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/1755d261-1bcd-47a3-8864-f592b6b5e03a">
 </p>
 
-### 5.Pie Chart for PASS/FAIL Distribution
+#### 5.Pie Chart for PASS/FAIL Distribution
 <p align="center">
 <img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/1be48b99-bda0-42ba-98f3-328b0a105b8e">
 </p>
 
-### 6.Bar Chart for distribution of other variables
+#### 6.Bar Chart for distribution of other variables
 <p align="center">
 <img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/173c1c81-a74a-4fed-9649-a78cbc64290e">
 </p>
@@ -117,12 +172,12 @@ This data set is a data set after removing all data points with a Final Exam sco
 <img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/4abe355c-1478-4598-ad1b-7b3bf0a8ef55">
 </p>
 
-### 7.Bubble Chart for Peer Reviews and Result of the Exam
+#### 7.Bubble Chart for Peer Reviews and Result of the Exam
 <p align="center">
 <img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/eb716d32-bfbe-4176-b7a0-2e9e52178489">
 </p>
 
-### 8. C Piscine Levels and Scaled Passed Ratio
+#### 8. C Piscine Levels and Scaled Passed Ratio
 <p align="center">
 <img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/78c03afd-8729-4c09-b47e-fed896f89d52">
 </p>
