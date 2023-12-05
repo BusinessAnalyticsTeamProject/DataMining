@@ -1,9 +1,3 @@
-<img width="883" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/6340c715-cfe2-4927-a74c-705276be369c">![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/a8b58e4f-2dd6-42c2-980b-5aaacb248144)<p  align="center">
-<img  width="900px"  height = "300px"  src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/28eea43e-5f03-41df-b5cc-524d7f1f947a"/>
-</p>
-
- <p  align="center"><b>Business Analytics Team Project in ITM Major</b></p>
-
 ## 📄 Background
 ### 1. Increasing competition rate​ & Unclear passing criteria
  
@@ -187,17 +181,23 @@ This data set is a data set after removing all data points with a Final Exam sco
 <img width="910" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/ed756698-816a-4e21-8f10-33d5b1328b62">
 
 ### ROC Curve
-#### in 42Seoul
+#### In 42Seoul
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/f4d58721-7c11-42ea-ba14-3d87c192797f)
-#### in 42Ecole
+#### In 42Ecole
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/95c15f83-d3f5-46f0-96f6-a7fce8558fc2)
 
 ### Confusion Matrix
-#### in 42Seoul
+#### In 42Seoul
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/3f555bd2-51a3-4324-b35b-ce1dcc52eee8)
-#### in 42Ecole
+#### In 42Ecole
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/7ef48918-6f8f-4b1f-bd16-698adfc3c245)
 
+#### Accuracy score
+<img width="990" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/d41abb87-5d5f-4768-85b4-f9c6722f4152">
+
+
+### Is high Accuracy better?
+<img width="964" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/474c31dc-939b-4485-8f8e-46733b19fdf4">
 
 
 ### Conclusion
