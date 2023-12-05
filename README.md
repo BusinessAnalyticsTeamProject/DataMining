@@ -1,4 +1,4 @@
-<p  align="center">
+<img width="883" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/6340c715-cfe2-4927-a74c-705276be369c">![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/a8b58e4f-2dd6-42c2-980b-5aaacb248144)<p  align="center">
 <img  width="900px"  height = "300px"  src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/28eea43e-5f03-41df-b5cc-524d7f1f947a"/>
 </p>
 
@@ -169,19 +169,36 @@ This data set is a data set after removing all data points with a Final Exam sco
 ### Split the data into train set and test set
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/27084d5a-6d59-4920-8945-dd6d2745a648)
 
-### Pipelining
+### Pipelining in 42Seoul
 <p align="center">
 <img src ="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/be1b7aaf-c802-40c6-a4ce-26a031e0024f">
 </p>
 
+### Pipelining in 42Ecole
+<img width="733" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/bbf2fc70-af6e-4e91-8432-7510fe8b5552">
+
 
 ##  🚏 Post-Processing
 ### Feature Importance
+#### in 42Seoul
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/cf814448-cd9b-4e3d-b951-f3700b78fcc6)
+#### in 42Ecole
+
+<img width="910" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/ed756698-816a-4e21-8f10-33d5b1328b62">
+
 ### ROC Curve
+#### in 42Seoul
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/f4d58721-7c11-42ea-ba14-3d87c192797f)
+#### in 42Ecole
+![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/95c15f83-d3f5-46f0-96f6-a7fce8558fc2)
+
 ### Confusion Matrix
+#### in 42Seoul
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/3f555bd2-51a3-4324-b35b-ce1dcc52eee8)
+#### in 42Ecole
+![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/7ef48918-6f8f-4b1f-bd16-698adfc3c245)
+
+
 
 ### Conclusion
 In conclusion, The original name of our project was 'what is important'. We thought there must be a reason why 42 Academy emphasizes the importance of the learning process and peer learning to la-piscine students over the results of the problem. Therefore, we believed that there would be elements more important than the scores of assignments and exams in this test. The outcome of the project indicates that the importance of peer evaluation is more significant than anything else. Through this project, we were able to quantitatively prove that enjoying knowledge through mutual learning and teaching, rather than the amount of individual study, is the core value that 42 Academy emphasizes.​
