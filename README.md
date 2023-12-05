@@ -74,6 +74,7 @@ This is how the final data  looks like. Since the participants whose score is un
 </p>
 <br>
 This data set is a data set after removing all data points with a Final Exam score of less than 42 points. It can be seen that even if the Final Exam score is 42 points or more, there are many people who fail the final selection, and the ratio is almost equal to the number of people in the PASS.
+
 ### In 42Ecole
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/de4226ce-61e4-435f-aa25-f077a1ef38e4)
 
@@ -83,6 +84,7 @@ This data set is a data set after removing all data points with a Final Exam sco
 <p align="center">
 <img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/statistics.png">
 </p>
+
 #### 42Ecole
 <img width="792" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/3892748b-7b76-452e-8ea6-7ccf40638038">
 
@@ -98,6 +100,7 @@ This data set is a data set after removing all data points with a Final Exam sco
 <p align="center">
 <img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoulboxplot%203.png">
 </p>
+
 #### 42Ecole
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/ac370ec3-e830-455d-883f-73f1cedca1b9)
 
@@ -108,6 +111,7 @@ This data set is a data set after removing all data points with a Final Exam sco
 <p align="center">
 <img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/correlationmatrix.png">
 </p>
+
 #### 42 Ecole
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/85436d3c-1ddc-458d-b511-4c8fa07a8ad8)
 
@@ -117,10 +121,9 @@ This data set is a data set after removing all data points with a Final Exam sco
 <p align="center">
 <img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoulpiechart.png">
 </p>
+
 #### 42 Ecole
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/b887ae0b-9f23-4b4c-8c66-b1a42465c94c)
-
-
 
 
 ### 6.Bar Chart for distribution of other variables
@@ -134,6 +137,7 @@ This data set is a data set after removing all data points with a Final Exam sco
 <p align="center">
 <img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoulbarchart3.png">
 </p>
+
 #### 42 Ecole
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/01c2246c-5b4c-4b39-937b-b9ba17ae9902)
 
@@ -143,6 +147,7 @@ This data set is a data set after removing all data points with a Final Exam sco
 <p align="center">
 <img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoul%20bubble%20chart.png">
 </p>
+
 #### 42 Ecole
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/6558e724-5e4e-4c4e-b4a5-3a28d1b3daa2)
 
@@ -152,6 +157,7 @@ This data set is a data set after removing all data points with a Final Exam sco
 <p align="center">
 <img src ="https://github.com/alekann009/Business-Analytics-final/blob/main/assets/seoul%20polar%20chart.png">
 </p>
+
 #### 42 Ecole 
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/dbed7ac8-cd73-42a3-8a63-fef689ac4f1e)
 
@@ -185,13 +191,14 @@ This data set is a data set after removing all data points with a Final Exam sco
 <img width="427" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/807b9418-3e5d-451d-a7e7-3dec312502b4">
 
 #### In 42Ecole
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/95c15f83-d3f5-46f0-96f6-a7fce8558fc2)
+<img width="460" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/afccbc6a-6469-44c4-9793-3ef9715f8920">
+
 
 ### Confusion Matrix
 #### In 42Seoul
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/3f555bd2-51a3-4324-b35b-ce1dcc52eee8)
 #### In 42Ecole
-<img width="453" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/25d682c3-cff7-4077-9a51-711a11c1da3c">
+<img width="484" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/532f1c99-abab-436a-a79e-a5eb52f4aef1">
 
 
 #### Accuracy score
