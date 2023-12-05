@@ -182,7 +182,8 @@ This data set is a data set after removing all data points with a Final Exam sco
 
 ### ROC Curve
 #### In 42Seoul
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/f4d58721-7c11-42ea-ba14-3d87c192797f)
+<img width="427" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/807b9418-3e5d-451d-a7e7-3dec312502b4">
+
 #### In 42Ecole
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/95c15f83-d3f5-46f0-96f6-a7fce8558fc2)
 
@@ -190,11 +191,11 @@ This data set is a data set after removing all data points with a Final Exam sco
 #### In 42Seoul
 ![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/111236793/3f555bd2-51a3-4324-b35b-ce1dcc52eee8)
 #### In 42Ecole
-![image](https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/7ef48918-6f8f-4b1f-bd16-698adfc3c245)
+<img width="453" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/25d682c3-cff7-4077-9a51-711a11c1da3c">
+
 
 #### Accuracy score
-<img width="990" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/d41abb87-5d5f-4768-85b4-f9c6722f4152">
-
+<img width="959" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/64fdd946-d2ca-44e7-83dd-78c3302c60d4">
 
 ### Is high Accuracy better?
 <img width="964" alt="image" src="https://github.com/BusinessAnalyticsTeamProject/DataMining/assets/65460400/474c31dc-939b-4485-8f8e-46733b19fdf4">
@@ -216,4 +217,4 @@ In the data extraction part, it was disappointing that we couldn’t extract dat
 - Jeongmin Oh(jeongmino1207@gmail.com), Github Id: jeongmino 
 - Kangmin Kim (rkdals0203@gmail.com), Github Id: rkdals0203 
 - Aleksandra Kaniewska (@gmail.com), Github Id: alekann009 
-- Eonseon Park (eonpark@gmail.com), Github Id: eonpark 
+- Eonseon Park (pocva6243@gmail.com), Github Id: eonpark 
